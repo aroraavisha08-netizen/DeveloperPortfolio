@@ -48,7 +48,7 @@ I have selected Data Science & AI/ML as my primary specialisation from Semester 
 
 -----------------------------------------------------------------
 
-**Core Skills** Data Structures: arrays, linked lists, stacks, queues, trees
+**Core Skills** Data Structures: arrays, linked lists, stacks, queues, trees; Database basics (SQL, tables, queries); Web basics (HTML, CSS, JavaScript)
 
 **Languages** Python OOP (classes, inheritance, file I/O), C++ basics
 
