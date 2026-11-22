@@ -1,29 +1,35 @@
 # Avisha Arora — Developer Portfolio
-> B.Tech CSE (AI & ML) Student | K.R. Mangalam University, Gurugram | Batch 2026-30
 
----
+B.Tech CSE (AI & ML) Student | K.R. Mangalam University, Gurugram | Batch 2026–30
 
-## Repository Index
+Welcome to my Developer Portfolio! This repository documents my learning journey, technical skills, projects, and development progress.
 
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/aroraavisha08-netizen/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [DeveloperPortfolio](https://github.com/aroraavisha08-netizen/DeveloperPortfolio) | This portfolio index | Markdown | Active |
+## Repository Sections
 
----
+| Section | Description |
+|---|---|
+| [Linux](./Linux/) | Linux commands and system documentation |
+| [ShellScripts](./ShellScripts/) | Bash scripting and automation |
+| [API](./API/) | REST API interaction and JSON data |
+| [Portfolio](./Portfolio/) | Resume and learning roadmap |
 
 ## Current Skills
 
-Python [█████░░░░░] 50%
-Linux / Bash [████░░░░░░] 40%
-Git / GitHub [█████░░░░░] 50%
-
----
+- Python
+- Linux / Bash
+- Git / GitHub
+- HTML
 
 ## Learning Roadmap
 
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
+See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my semester-wise learning plan.
 
 ## Progress Tracker
 
 See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
+
+## Connect With Me
+
+- GitHub: https://github.com/aroraavisha08-netizen
+- LinkedIn: https://www.linkedin.com/in/avisha-arora-118a28431/
+
