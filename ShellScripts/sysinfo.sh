@@ -15,10 +15,10 @@ echo "CPU Model:"
 lscpu | awk -F: '/Model name/ {print $2; exit}'
 
 echo "Number of CPU cores:"
-lscpu | awk -F: '/Core(s) per socket/ {cores=$2}
-                  /Socket(s)/ {sockets=$2}
-                  END {gsub(/ /,"",cores); gsub(/ /,"",sockets);
-                       print cores*sockets " physical cores"}'
+lscpu -p=CORE,SOCKET | awk -F, '
+    !/^#/ { cores[$1 "," $2] = 1 }
+    END { print length(cores) " physical cores" }
+'
 echo
 
 echo "---------- MEMORY INFORMATION ----------"

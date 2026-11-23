@@ -3,23 +3,23 @@
 ========================================
 Name: Avisha Arora
 Roll Number: 2601730308
-Date: Sun Nov 22 07:10:57 UTC 2026
+Date: Mon Nov 23 13:19:11 UTC 2026
 
 ---------- CPU INFORMATION ----------
 CPU Model:
                               Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
 Number of CPU cores:
-0 physical cores
+4 physical cores
 
 ---------- MEMORY INFORMATION ----------
 Total Memory: 3.8Gi
-Used Memory: 483Mi
+Used Memory: 478Mi
 
 ---------- TOP 3 PROCESSES BY CPU ----------
     PID COMMAND         %CPU
-      1 systemd          0.1
-    412 systemd          0.0
-     97 systemd-udevd    0.0
+      1 systemd          0.0
+    100 systemd-udevd    0.0
+     51 systemd-journal  0.0
 
 ========================================
 Report generated successfully.
