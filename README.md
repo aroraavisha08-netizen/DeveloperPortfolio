@@ -22,7 +22,7 @@ Welcome to my Developer Portfolio! This repository documents my learning journey
 
 ## Learning Roadmap
 
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my semester-wise learning plan.
+See [learning_roadmap.md](./Portfolio/learning_roadmap.md) for my semester-wise learning plan.
 
 ## Progress Tracker
 

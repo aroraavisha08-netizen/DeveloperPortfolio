@@ -1,32 +1,32 @@
 # Coding Platform Progress Tracker
 
-# Updated: [Today's Date]
+# Updated: 2026-11-23
 
 ---
 
 ## HackerRank
 
-- Profile URL : https://www.hackerrank.com/profile/[your-username]
+- Profile URL : https://www.hackerrank.com/profile/h2601730308
 
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
 
 - Skill test taken : Python (Basic)
 
-- Certificate : [Earned / Pending] | [Certificate URL if earned]
+- Certificate : Pending
 
 ## LeetCode
 
-- Profile URL : https://leetcode.com/u/[your-username]
+- Profile URL : https://leetcode.com/u/Avisha_Arora/
 
 - Easy attempted : 2 (Two Sum, Palindrome Number)
 
-- Easy solved : [update after attempting]
+- Easy solved : 2 (Two Sum, Palindrome Number)
 
 - Medium attempted : 0
 
 ## freeCodeCamp
 
-- Profile URL : https://www.freecodecamp.org/[your-username]
+- Profile URL : https://www.freecodecamp.org/avisha_arora
 
 - Current track : Responsive Web Design
 
